@@ -1,0 +1,29 @@
+_repo: Gereformeerde-Dogmatiek-Deel-II_67966
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bavinck, Herman
+    alias: Bavinck, H. (Herman)
+    birthdate: 1854
+    deathdate: 1921
+    gutenberg_agent_id: '41605'
+    url: http://www.gutenberg.org/2009/agents/41605
+description: ''
+gutenberg_issued: '2022-05-01'
+identifiers:
+  gutenberg: '67966'
+language: nl
+pgterms:marc904: https://dbnl.org/arch/bavi002gere02_01/pag/bavi002gere02_01.pdf
+pgterms:marc905: 20220430064208bavinck
+pgterms:marc906: '1897'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman, Hans Pieterse and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: Netherlands :J. H. Bos,1897.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gereformeerde Dogmatiek, Deel II
+url: http://www.gutenberg.org/ebooks/67966
