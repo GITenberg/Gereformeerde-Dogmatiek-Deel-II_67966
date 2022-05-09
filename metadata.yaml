@@ -1,5 +1,8 @@
 _repo: Gereformeerde-Dogmatiek-Deel-II_67966
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67966-h/images/cover.jpg
 creator:
   author:
     agent_name: Bavinck, Herman
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '41605'
     url: http://www.gutenberg.org/2009/agents/41605
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67966#Gereformeerde-Dogmatiek-Deel-II
 gutenberg_issued: '2022-05-01'
 identifiers:
   gutenberg: '67966'
